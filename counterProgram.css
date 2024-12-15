@@ -1,0 +1,48 @@
+/* COUNTER PROGRAM STYLING */
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+
+
+* {
+  font-family: Orbitron, sans-serif;
+}
+
+body {
+  background-color: rgba(112, 128, 144, 0.556);
+}
+#countLabel {
+  display: block;
+  text-align: center;
+  font-size: 10em;
+}
+#btnContainer {
+  text-align: center;
+}
+.buttons {
+  padding: 20px;
+  font-size: 1.5em;
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.25s;
+  border: 3px solid black;
+}
+.buttons:hover {
+  background-color: black;
+  color: white;
+  border: 3px solid white;
+}
+
+#counter {
+  display: flex;
+  background-color: rgba(174, 136, 255, 0.448);
+  padding: 20px;
+  margin: 350px auto;
+  width: 500px;
+  height: 325px;
+  justify-content: center;
+  border: 3px solid black;
+  box-shadow: 0 0 30px 0 black;
+  border-radius: 5px;
+
+}
