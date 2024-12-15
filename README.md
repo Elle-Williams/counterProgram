@@ -37,7 +37,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-A simple tribute page to a video game character. Completed with HMTL & CSS.
+A simple counter program. Completed with Javascript, HMTL, and CSS.
 
 <!-- CONTACT -->
 
